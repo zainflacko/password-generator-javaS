@@ -1,2 +1,1 @@
-# weather-fetching
-html,js weather fetching
+#password generator JavaS
